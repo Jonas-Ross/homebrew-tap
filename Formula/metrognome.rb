@@ -1,8 +1,8 @@
 class Metrognome < Formula
   desc "BPM and musical-key estimation from short audio clips"
   homepage "https://github.com/Jonas-Ross/metrognome"
-  url "https://github.com/Jonas-Ross/metrognome/releases/download/v0.1.0/metrognome-0.1.0-universal-apple-darwin.tar.gz"
-  sha256 "6e0a53aafbcca48085e1a4e4e204c1936f6757d69a294da6ee43086c46fc34a3"
+  url "https://github.com/Jonas-Ross/metrognome/releases/download/v0.2.0/metrognome-0.2.0-universal-apple-darwin.tar.gz"
+  sha256 "d4cb1abe923cc5757ccdeb08e3a4abbcdeeb4f7cc00b333fecf501ab7fbc0d88"
   license "MIT"
 
   depends_on :macos
